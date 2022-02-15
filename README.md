@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Julian Piasecki
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing beacause I write my projects alone
+- 📫 How to reach me https://www.julian-piasecki.com (soon)
