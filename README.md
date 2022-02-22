@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Julian Piasecki
-- 👀 I’m interested in computer science
-- 🐦 I'm on twitter >> https://twitter.com/
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing beacause I write my projects alone
-- 📫 How to reach me https://www.julian-piasecki.com/ (soon)
+- 😁 I’m Julian Piasecki
+- 🐦 My Twitter: https://twitter.julian-piasecki.com/ (soon)
+- 🎥 Visit my YouTube channel: https://youtube.julian-piasecki.com/ (soon)
+- 📫 How to reach me: https://julian-piasecki.com/ (soon)
+- ⛏️ Buy courses here: https://courses.julian-piasecki.com/ (soon)
+- 👨🏽 Pronouns: he/him/his
+- 🚩 Languages: Polish / English / Spanish / German
+- ❤️ I'm interested in computer science
+- 🛒 I'm looking for courses worth attention
