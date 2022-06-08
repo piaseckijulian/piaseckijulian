@@ -1,9 +1,5 @@
-- 😁 I’m Julian Piasecki
+- 😁 I am Julian Piasecki
 - 🐦 My Twitter: https://twitter.julian-piasecki.com/ (soon)
-- 🎥 Visit my YouTube channel: https://youtube.julian-piasecki.com/ (soon)
-- 📫 How to reach me: https://julian-piasecki.com/ (soon)
-- ⛏️ Buy courses here: https://courses.julian-piasecki.com/ (soon)
+- 📫 You can reach me at: https://julian-piasecki.com/ (soon)
 - 👨🏽 Pronouns: he/him/his
-- 🚩 Languages: Polish / English / Spanish / German / Russian
-- ❤️ I'm interested in computer science
-- 🛒 I'm looking for courses worth attention
+- 🚩 Languages: English, Spanish, German
