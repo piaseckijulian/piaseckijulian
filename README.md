@@ -1,5 +1,6 @@
-- 😁 I am Julian Piasecki
-- 🐦 My Twitter: https://twitter.com/piaseckijulian/
-- 📫 You can reach me at: https://julian-piasecki.com/ (soon)
-- 👨🏽 Pronouns: he/him/his
-- 🚩 Languages: English / Spanish
+- 🙂 I'm **Julian Piasecki**
+- 🐦 My Twitter: **[@piaseckijulian](https://twitter.com/piaseckijulian/)**
+- 📫 You can reach me at this **[website](https://julian-piasecki.com/)**
+- 👨🏻 Pronouns: **he/him**
+- 🏴 Speaking: **English**
+- 🧑🏻‍💻 Writing code in: **JavaScript**
