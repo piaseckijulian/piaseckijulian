@@ -1,6 +1,6 @@
 - 🙂 I'm **Julian Piasecki**
 - 🐦 My Twitter: **<a href="https://twitter.com/piaseckijulian/" target="_blank">@piaseckijulian</a>**
-- 📫 My personal webiste: **<a href="https://piaseckijulian.github.io/Personal-Website/" target="_blank">piaseckijulian.github.io/Personal-Website/</a>**
+- 📫 My personal **<a href="https://piaseckijulian.github.io/Personal-Website/" target="_blank">website</a>**
 - 👨🏻 Pronouns: **he/him**
 - 🏴 Speaking: **English**
 - 🧑🏻‍💻 Writing code in: **JavaScript**
