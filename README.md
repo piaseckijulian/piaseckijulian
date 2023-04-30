@@ -49,9 +49,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Tips for Staying Productive as a Developer](https://dev.to/piaseckijulian/7-tips-for-staying-productive-as-a-developer-4n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-[![Julian Piasecki's GitHub stats](https://github-readme-stats.vercel.app/api?username=piaseckijulian&show_icons=true&theme=dracula)](https://github.com/piaseckijulian/github-readme-stats)
+[![Julian Piasecki's GitHub stats](https://github-readme-stats.vercel.app/api?username=piaseckijulian&show_icons=true&theme=dracula&hide_border=true)](https://github.com/piaseckijulian/)
