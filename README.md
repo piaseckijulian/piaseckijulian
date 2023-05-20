@@ -37,4 +37,4 @@
 
 ---
 
-[![Julian Piasecki's GitHub stats](https://github-readme-stats.vercel.app/api?username=piaseckijulian&show_icons=true&theme=dracula)](https://github.com/piaseckijulian/github-readme-stats)
+[![Julian Piasecki's GitHub stats](https://github-readme-stats.vercel.app/api?username=piaseckijulian&show_icons=true&theme=dracula&hide_border=true)](https://github.com/piaseckijulian/)
