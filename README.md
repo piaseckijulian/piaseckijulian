@@ -32,7 +32,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [7 Tips for Staying Productive as a Developer](https://dev.to/piaseckijulian/7-tips-for-staying-productive-as-a-developer-4n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
