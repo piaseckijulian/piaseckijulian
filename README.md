@@ -9,7 +9,7 @@ src="https://img.shields.io/twitter/follow/piaseckijulian?logo=twitter&style=for
 
 ## Tools & Languages
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,html,css,js,ts,tailwind,react,nextjs,nodejs,py,mongodb,vite,git,linux&perline=8)]()
+![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,html,css,js,ts,tailwind,react,nextjs,nodejs,py,mongodb,vite,git,linux&perline=8)
 ###
 
 <div align="center">
