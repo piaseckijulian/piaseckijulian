@@ -12,10 +12,10 @@
 
 ## Tools & Languages
 
-![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,html,css,js,ts,tailwind,react,nextjs,redux,nodejs,py,mongodb,vite,git,vercel,netlify,linux,bash,md,svg&perline=11)
+![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,html,css,js,ts,tailwind,scss,react,nextjs,redux,nodejs,py,mongodb,supabase,vite,git,vercel,netlify,linux,bash,md,svg&perline=12)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=piaseckijulian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&rank_icon=github" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=piaseckijulian&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&rank_icon=github" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piaseckijulian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
