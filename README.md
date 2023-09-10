@@ -8,11 +8,11 @@
 
 # Hi👋! My name is Julian Piasecki
 
-## I'm a Front-End Dev
+## I'm a Full-Stack Dev
 
 ## Tools & Languages
 
-![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,html,css,js,ts,tailwind,scss,react,nextjs,redux,nodejs,py,mongodb,supabase,vite,git,vercel,netlify,linux,bash,md,svg&perline=12)
+![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,html,css,js,ts,tailwind,scss,react,nextjs,svelte,vuejs,redux,nodejs,expressjs,py,mongodb,vite,git,vercel,netlify,linux,bash,md,svg&perline=13)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=piaseckijulian&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&rank_icon=github" height="200" alt="stats graph"  />
