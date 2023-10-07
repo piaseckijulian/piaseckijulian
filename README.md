@@ -10,7 +10,7 @@
 
 ## I'm a Full-Stack Dev
 
-## Tools & Languages
+## Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,html,css,js,ts,tailwind,scss,react,nextjs,svelte,astro,solidjs,redux,nodejs,expressjs,mongodb,vite,git,vercel,linux&perline=11)
 
