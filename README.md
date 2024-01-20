@@ -12,7 +12,7 @@
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,html,css,js,ts,tailwind,scss,react,nextjs,vue,nuxt,svelte,astro,solidjs,redux,nodejs,expressjs,mongodb,vite,git,vercel,linux&perline=12)
+![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,html,css,js,ts,py,tailwind,scss,react,nextjs,vue,nuxt,svelte,astro,solidjs,redux,nodejs,expressjs,prisma,git,vercel,linux&perline=12)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=piaseckijulian&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&rank_icon=github" height="200" alt="stats graph"  />
