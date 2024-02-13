@@ -8,7 +8,7 @@
 
 # Hi👋! My name is Julian Piasecki
 
-## I'm a Full-Stack Dev
+## I'm a Software Engineer
 
 ## Tech Stack
 
