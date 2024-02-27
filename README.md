@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://www.twitter.com/piaseckijulian" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/piaseckijulian?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/twitter/follow/piaseckijulian?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
 # Hi👋! My name is Julian Piasecki
