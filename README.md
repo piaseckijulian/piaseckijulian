@@ -7,7 +7,7 @@
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=github,vscode,figma,html,css,scss,tailwind,js,ts,py,go,react,nextjs,vue,nuxt,svelte,astro,solidjs,vitest,nodejs,expressjs,prisma,git,linux&perline=12)
+![Tech Stack](https://skillicons.dev/icons?i=github,vscode,html,css,scss,tailwind,js,ts,py,go,react,nextjs,vue,nuxt,svelte,astro,solidjs,vite,vitest,nodejs,expressjs,prisma,git,linux&perline=12)
 
 <div>
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=piaseckijulian&show_icons=true&count_private=true&theme=nord&hide_border=true&rank_icon=github" alt="Github Stats" />
