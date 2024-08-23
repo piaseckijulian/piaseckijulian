@@ -3,17 +3,9 @@
 
 # Hi👋! My name is Julian Piasecki
 
-## I'm a Software Engineer
+I'm a self-taught Web Developer specializing in Full-Stack development, with several years of experience in building scalable and efficient applications. My primary tools include TypeScript, Python, and Go. I frequently work with Next.js for its powerful full-stack capabilities.
 
-## Tech Stack
-
-<div>
-  
-
-</div>
-
-## Stats
-
+I thrive on solving complex challenges, from optimizing backend performance to creating intuitive, user-friendly interfaces. Driven by a passion for continuous learning, I’m always exploring new technologies and methodologies to enhance my development skills and deliver top-quality solutions.
 
 <div>
   <img heigth="100" align="center" src="https://github-readme-stats.vercel.app/api?username=piaseckijulian&show_icons=true&count_private=true&theme=algolia&hide_border=true&rank_icon=github" alt="Github Stats"/>
